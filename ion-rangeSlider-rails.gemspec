@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
   gem.add_dependency 'jquery-ui-rails', '~>5.0'
   gem.add_dependency 'jquery-rails'
-  gem.add_dependency 'rails'
+  gem.add_dependency 'rails', '~>4.3.1'
 end
